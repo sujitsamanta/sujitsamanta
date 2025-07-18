@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sujitsamanta510@gmail.com**
 
-<img  align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img  align="right" alt="coding" width="400" src="https://imgs.search.brave.com/qfeIMoXTJl5y9BE-WSQjDw7sBSZqo3w-EIMQiKerfEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS84/OGFkYzdjODhjOWQz/ZGJhNzQ3OTAyMDg0/NmVkMzVkMTM0MTBl/MzcwN2M3ZjE0OWUx/YzYxNDBjYzZiZWFl/ZjlhLzY4NzQ3NDcw/NzMzYTJmMmY3MDY4/Nzk3MzY5NjM3MzY3/NzU3Mjc1NmI3NTZj/MmU2NjY5NmM2NTcz/MmU3NzZmNzI2NDcw/NzI2NTczNzMyZTYz/NmY2ZDJmMzIzMDMx/MzkyZjMwMzIyZjYz/Njg2MTcyNjE2Mzc0/NjU3MjJkMzEyZTY3/Njk2Ng">
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
