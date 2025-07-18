@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sujitsamanta/sujitsamanta/blob/main/1000386860.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
