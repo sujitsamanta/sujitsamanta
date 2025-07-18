@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sujitsamanta510@gmail.com**
 
-<img  align="right" alt="coding" width="400" src="https://imgs.search.brave.com/qfeIMoXTJl5y9BE-WSQjDw7sBSZqo3w-EIMQiKerfEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS84/OGFkYzdjODhjOWQz/ZGJhNzQ3OTAyMDg0/NmVkMzVkMTM0MTBl/MzcwN2M3ZjE0OWUx/YzYxNDBjYzZiZWFl/ZjlhLzY4NzQ3NDcw/NzMzYTJmMmY3MDY4/Nzk3MzY5NjM3MzY3/NzU3Mjc1NmI3NTZj/MmU2NjY5NmM2NTcz/MmU3NzZmNzI2NDcw/NzI2NTczNzMyZTYz/NmY2ZDJmMzIzMDMx/MzkyZjMwMzIyZjYz/Njg2MTcyNjE2Mzc0/NjU3MjJkMzEyZTY3/Njk2Ng">
+<img  align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
