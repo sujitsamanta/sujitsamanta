@@ -46,7 +46,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 
 </p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitsamanta&show_icons=true&locale=en&layout=compact" alt="sujitsamanta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitsamanta&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
