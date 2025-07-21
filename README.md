@@ -1,5 +1,6 @@
 ![logo](https://github.com/sujitsamanta/sujitsamanta/blob/main/1000386860.png?raw=true)
-<h1 align="center">Hi 👋, I'm Sujit Samanta</h1>
+<h1 align="center">Hello👋, I'm Sujit Samanta</h1>
+<h1 align="center">Welcome to my Github page 🎉</h1>
 <h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
 <h3 align="center">A passionate Laravel and PHP developer from India</h3>
 
