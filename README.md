@@ -57,7 +57,11 @@ class Developer:
 <summary><b>🔧 Languages & Frameworks</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind css,python,js,html,css" />
+<!--   <img src="https://skillicons.dev/icons?i=laravel,tailwind css,python,js,html,css" /> -->
+  <a href="www.linkedin.com/in/sujit-samanta510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit samanta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sujitsamanta38/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit samanta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sujit.samanta.122634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit samanta" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/edit/28839948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujit-samanta" height="30" width="40" /></a>
 </div>
 </details>
 
