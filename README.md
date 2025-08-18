@@ -57,7 +57,7 @@ class Developer:
 <summary><b>🔧 Languages & Frameworks</b></summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind css,python,js,html,css" />
 </div>
 </details>
 
