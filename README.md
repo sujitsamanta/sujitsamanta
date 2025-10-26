@@ -182,7 +182,9 @@ class Developer:
 
 
 
-
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="coding-gif" width="100%" style="max-width: 700px; border-radius: 10px;" />
+</div>
 
 
 
