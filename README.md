@@ -37,7 +37,8 @@ class Developer:
 
     def projects(self):
         return [
-            "Collage web",
+            "E_Commerce (Watch Shop)",
+            "Voting System",
             "Collage management system",
         ]
 ```
