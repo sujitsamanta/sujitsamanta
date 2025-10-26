@@ -9,9 +9,9 @@
 </p>
 
 
-<!-- <div align="center">
+ <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Engineer;Problem+Solver;Continuous+Learner" alt="Typing Animation">
-</div> -->
+</div> 
 
 ![logo](https://github.com/sujitsamanta/sujitsamanta/blob/main/1000386860.png?raw=true)
 
@@ -20,9 +20,7 @@
 
 ## 💫 About Me
 
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="coding-gif" width="100%" style="max-width: 700px; border-radius: 10px;" />
-</div>
+
 
 ```python
 class Developer:
