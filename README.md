@@ -205,7 +205,7 @@ class Developer:
 
 - 🌱 I’m currently learning **Laravel, PHP, MySQL**
 
-- 🔭 I’m currently working on [Collage Management system](https://github.com/sujitsamanta/collage_management_web)
+- 🔭 I’m currently working on [E-Commaerce (Watch_Shop)](https://github.com/sujitsamanta/Watch_Shop)
 
 - 👨‍💻 All of my projects are available at [https://sujitsamanta.github.io/My_Portfolio/](https://sujitsamanta.github.io/My_Portfolio/)
 
