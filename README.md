@@ -8,15 +8,6 @@
   <em>Full-Stack Developer | LARAVEL Specialist | Python | Tailwind CSS 🔐</em>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujitsamanta&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-  <a href="https://github.com/sujitsamanta?tab=followers">
-    <img src="https://img.shields.io/github/followers/sujitsamanta?label=Followers&style=social" alt="GitHub followers">
-  </a>
-</div>
-
-
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Engineer;Problem+Solver;Continuous+Learner" alt="Typing Animation">
