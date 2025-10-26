@@ -5,7 +5,7 @@
 # <div align="center">**HELLO WORLD🌍 ! I'M sujit Samanta** 👋</div>
 
 <p align="center">
-  <em>Full-Stack Developer | LARAVEL Specialist | Python | Tailwind CSS 🔐</em>
+  <em>Full-Stack Developer | LARAVEL Developer | PHP Developer | Tailwind CSS 🔐</em>
 </p>
 
 
