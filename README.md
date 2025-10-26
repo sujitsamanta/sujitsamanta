@@ -9,9 +9,12 @@
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Engineer;Problem+Solver;Continuous+Learner" alt="Typing Animation">
-</div>
+</div> -->
+
+![logo](https://github.com/sujitsamanta/sujitsamanta/blob/main/1000386860.png?raw=true)
+
 
 <br>
 
@@ -185,7 +188,6 @@ class Developer:
 
 
 
-![logo](https://github.com/sujitsamanta/sujitsamanta/blob/main/1000386860.png?raw=true)
 <h1 align="center">Hello👋, I'm Sujit Samanta</h1>
 <h1 align="center">Welcome to my Github page 🎉</h1>
 <h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
