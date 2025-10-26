@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&lines=Backend+Developer;MERN+Stack+Engineer;Python+Enthusiast;Cybersecurity+Explorer;Problem+Solver;Continuous+Learner" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+Engineer;Problem+Solver;Continuous+Learner" alt="Typing Animation">
 </div>
 
 <br>
