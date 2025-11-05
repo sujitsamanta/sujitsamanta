@@ -3,10 +3,12 @@
 </div>
 
 # <div align="center">**HELLO WORLD🌍 ! I'M sujit Samanta** 👋</div>
+<h1 align="center">Welcome to my Github page 🎉</h1>
+<h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
 
-<p align="center">
+<h3 align="center">
   <em>Full-Stack Developer | LARAVEL Developer | PHP Developer | Tailwind CSS 🔐</em>
-</p>
+</h3>
 
 
  <div align="center">
@@ -46,9 +48,8 @@ class Developer:
 
  
 
-<h1 align="center">Hello👋, I'm Sujit Samanta</h1>
-<h1 align="center">Welcome to my Github page 🎉</h1>
-<h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
+<!-- <h1 align="center">Hello👋, I'm Sujit Samanta</h1> -->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsamanta&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsamanta" /> </p>
