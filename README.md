@@ -93,7 +93,7 @@ class Developer:
 <!--   <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish652&theme=tokyonight" alt="GitHub Streak Stats" /> -->
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumandey2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitsamanta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img  height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt1ejd6NmJhanA4amtpemhoYXkwODFuYXRyejM4N2Q1OHdudno1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
