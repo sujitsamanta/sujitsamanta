@@ -4,7 +4,7 @@
 
 # <div align="center">**HELLO WORLD🌍 ! I'M sujit Samanta** 👋</div>
 <h1 align="center">Welcome to my Github page 🎉</h1>
-<h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
+<!-- <h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2> -->
 
 <h3 align="center">
   <em>Full-Stack Developer | LARAVEL Developer | PHP Developer | Tailwind CSS 🔐</em>
