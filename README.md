@@ -44,6 +44,29 @@ class Developer:
 ```
  <br/> 
 
+ 
+
+<h1 align="center">Hello👋, I'm Sujit Samanta</h1>
+<h1 align="center">Welcome to my Github page 🎉</h1>
+<h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsamanta&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsamanta" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitsamanta" alt="sujitsamanta" /></a> </p>
+
+- ⚡My portfolio [https://sujitsamanta.github.io/My_Portfolio/](https://sujitsamanta.github.io/My_Portfolio/)
+
+- 🌱 I’m currently learning **Laravel, PHP, MySQL**
+
+- 🔭 I’m currently working on [E-Commaerce (Watch_Shop)](https://github.com/sujitsamanta/Watch_Shop)
+
+- 👨‍💻 All of my projects are available at [https://sujitsamanta.github.io/My_Portfolio/](https://sujitsamanta.github.io/My_Portfolio/)
+
+- 💬 Ask me about **Laravel, PHP, MySQL and Tailwind**
+
+- 📫 How to reach me **sujitsamanta510@gmail.com**
+
 
 
 
@@ -188,27 +211,6 @@ class Developer:
 </div>
 
 
-
-<h1 align="center">Hello👋, I'm Sujit Samanta</h1>
-<h1 align="center">Welcome to my Github page 🎉</h1>
-<h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsamanta&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsamanta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitsamanta" alt="sujitsamanta" /></a> </p>
-
-- ⚡My portfolio [https://sujitsamanta.github.io/My_Portfolio/](https://sujitsamanta.github.io/My_Portfolio/)
-
-- 🌱 I’m currently learning **Laravel, PHP, MySQL**
-
-- 🔭 I’m currently working on [E-Commaerce (Watch_Shop)](https://github.com/sujitsamanta/Watch_Shop)
-
-- 👨‍💻 All of my projects are available at [https://sujitsamanta.github.io/My_Portfolio/](https://sujitsamanta.github.io/My_Portfolio/)
-
-- 💬 Ask me about **Laravel, PHP, MySQL and Tailwind**
-
-- 📫 How to reach me **sujitsamanta510@gmail.com**
 
 
 
