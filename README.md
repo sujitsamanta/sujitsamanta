@@ -2,7 +2,7 @@
 <!--   <img src="https://github.com/Manish652/Manish652/blob/main/name.png?raw=true" width="100%" alt="Manish Bhunia - Web Developer"> -->
 </div>
 
-# <div align="center">**HELLO WORLD🌍 ! I'M Sujit Samanta** 👋</div>
+# <div align="center">**HELLO WORLD 🌍..! I'm Sujit Samanta** 👋</div>
 <h1 align="center">Currently working on <a href="https://vawsum.com/">Vawsum.com</a> as a Cake PHP, API, jQuery, javascript Developer</h1>
 <!-- <h1 align="center">Welcome to my Github page 🎉</h1> -->
 <!-- <h2 align="center">Crafting immersive digital experience with Laravel, My Sql, Tailwind.</h2> -->
