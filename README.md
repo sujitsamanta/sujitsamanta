@@ -170,11 +170,9 @@ class Developer:
 <br/>
 
 
-
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
-
 
 
 
@@ -183,28 +181,10 @@ class Developer:
 </div>
 
 
-
-
-
 <img  align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="www.linkedin.com/in/sujit-samanta510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit samanta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sujitsamanta38/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit samanta" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sujit.samanta.122634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit samanta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/edit/28839948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujit-samanta" height="30" width="40" /></a>
-</p>
-
-
-
-
-</p>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitsamanta&show_icons=true&locale=en&layout=compact" alt="sujitsamanta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitsamanta&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
